@@ -45,19 +45,13 @@ function App() {
         <HeroContent>
           <Container maxWidth="sm">
             <Typography
-              variant="h2"
+              variant="h3"
               align="center"
               color="textPrimary"
               gutterBottom
             >
               Mi Portafolio
             </Typography>
-            <Typography
-              variant="h5"
-              align="center"
-              color="textSecondary"
-              paragraph
-            ></Typography>
           </Container>
         </HeroContent>
         <CardGrid maxWidth="md">
